@@ -1,0 +1,14 @@
+uuid: 1b28064f-95a8-46b0-8536-9773e88ec810
+name: ntubbs-nashville-2018-training
+mail: nt328@cornell.edu
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
