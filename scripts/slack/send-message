@@ -1,7 +1,7 @@
 
 #!/bin/bash
 
-# Exit immediately on errors
+# Exit immediately on error
 set -e
 
 # Get the commit message from the current commit’s author
